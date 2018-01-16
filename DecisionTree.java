@@ -5,8 +5,6 @@ import java.util.*;
  * This class is to implement the DecisionTree given a csv file which store the attributes in the first line
  * and the value in the following lines, the last column is the classification of the branches attributes with 
  * their values.
- * 
- * @author Jinglin Li (jxl163530, 2021323767)
  *
  */
 
