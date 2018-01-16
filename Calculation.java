@@ -2,7 +2,6 @@ import java.util.*;
 
 /**
  * this class Calculation is to calculate the entropy, varianceImpurity etc. for the Decision Tree
- * @author Jinglin Li (jxl163530, 2021323767)
  */
 
 public class Calculation {
